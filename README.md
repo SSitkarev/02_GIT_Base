@@ -14,7 +14,7 @@ GitLab. Для регистрации можно использовать акк
 Отправьте изменения в новый удалённый репозиторий git push -u gitlab main.
 Обратите внимание, как изменился результат работы команды git remote -v.
 
-![Задание1](https://github.com/SSitkarev/08_GIT_Base/blob/main/img/1_9.jpg)
+![Задание1](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/1_9.jpg)
 
 Как изменить видимость репозитория в GitLab — сделать его публичным
 На верхней панели выберите «Меню» -> «Проекты» и найдите свой проект.
@@ -40,9 +40,9 @@ Group overview -> Settings -> General -> Permissions and group features -> Visib
 в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
 в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке.
 
-![Задание2](https://github.com/SSitkarev/08_GIT_Base/blob/main/img/2_1.jpg)
+![Задание2](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/2_1.jpg)
 
-![Задание2](https://github.com/SSitkarev/08_GIT_Base/blob/main/img/2_2.jpg)
+![Задание2](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/2_2.jpg)
 
 ## Задание 3. Ветки
 
