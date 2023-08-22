@@ -71,3 +71,17 @@ Group overview -> Settings -> General -> Permissions and group features -> Visib
 и как изменится вывод команды git log.
 
 ![Задание3](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/3_8_1.jpg)
+
+## Задание 4. Упрощаем себе жизнь
+
+Попробуем поработь с Git при помощи визуального редактора.
+
+В используемой IDE PyCharm откройте визуальный редактор работы с Git, находящийся в меню View -> Tool Windows -> Git.
+
+Измените какой-нибудь файл, и он сразу появится на вкладке Local Changes, отсюда можно выполнить коммит, нажав на кнопку внизу этого диалога.
+
+Попробуйте выполнить пару коммитов, используя IDE.
+
+![Задание4](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/4_1.jpg)
+
+![Задание4](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/4_2.jpg)
