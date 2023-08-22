@@ -50,9 +50,24 @@ Group overview -> Settings -> General -> Permissions and group features -> Visib
 
 Переключитесь обратно на ветку main, которая должна быть связана с веткой main репозитория на github.
 Посмотрите лог коммитов и найдите хеш коммита с названием Prepare to delete and move, который был создан в пределах предыдущего домашнего задания.
+
+![Задание3](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/3_2.jpg)
+
 Выполните git checkout по хешу найденного коммита.
 Создайте новую ветку fix, базируясь на этом коммите git switch -c fix.
 Отправьте новую ветку в репозиторий на GitHub git push -u origin fix.
+
+![Задание3](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/3_5.jpg)
+
 Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network.
+
+![Задание3](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/3_6.jpg)
+
 Теперь измените содержание файла README.md, добавив новую строчку.
-Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network и как изменится вывод команды git log.
+Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
+
+![Задание3](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/3_8.jpg)
+
+и как изменится вывод команды git log.
+
+![Задание3](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/3_8_1.jpg)
