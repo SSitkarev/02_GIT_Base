@@ -82,6 +82,8 @@ Group overview -> Settings -> General -> Permissions and group features -> Visib
 
 Попробуйте выполнить пару коммитов, используя IDE.
 
+![Задание4](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/4.jpg)
+
 ![Задание4](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/4_1.jpg)
 
 ![Задание4](https://github.com/SSitkarev/02_GIT_Base/blob/main/img/4_2.jpg)
